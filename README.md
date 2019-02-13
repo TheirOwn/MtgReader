@@ -10,3 +10,5 @@ Syntax: All manacosts are in the original syntax for now: {X} {1} {2}... {W/U/B/
   -Using a "~" sign before a word or phrase marks it as a "optional" word. All results with this word/phrase will be marked as better 
    matches.
   
+
+Other: I mostly made this in my free time out of boredom and the desire for a "better" way to search through cards. Namely, Excel. Unfortunately, formatting cards in excel is finicky, so I'll have to keep working to find a layout that is still easily readable.
