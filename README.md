@@ -1,9 +1,7 @@
 # MtgReader
 Search Engine for mtg cards. Credit to mtgjson for the database.
 
-Required:
-  Download Allcards.json from MTGJson: https://mtgjson.com/
-  Store it in a folder called Cards in the same directory as mtgreader.py
+MTGJson: https://mtgjson.com/
 
 Planning on eventually adding an interface, but that is definitely not my strong suit. 
 
