@@ -1,6 +1,8 @@
 # MtgReader
 Search Engine for mtg cards. Credit to mtgjson for the database.
 
+mtgreader1.5.py should work on allcards. mtgreader1.7.py does not work quite yet.
+
 MTGJson: https://mtgjson.com/
 
 Planning on eventually adding an interface, but that is definitely not my strong suit. 
